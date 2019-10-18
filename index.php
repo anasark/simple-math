@@ -1,1 +1,0 @@
-<script>window.location = "https://opoikii.com";</script>
